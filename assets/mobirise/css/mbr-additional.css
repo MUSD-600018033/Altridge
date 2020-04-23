@@ -710,6 +710,29 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-rWXxjCOmVY {
+  background: #ffffff;
+}
+.cid-rWXxjCOmVY .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rWXxjCOmVY .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rWXxjCOmVY figcaption {
+  position: relative;
+}
+.cid-rWXxjCOmVY figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rWXxjCOmVY .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qTkA127IK8 {
   background-color: #232323;
 }
